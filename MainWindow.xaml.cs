@@ -35,7 +35,7 @@ namespace _313616HelloWorld
             string UserInput = txtName.Text;
             if (UserInput == "Noah" || UserInput == "noah")
             {
-                lblOutput.Content = "oi ya cuck";
+                lblOutput.Content = "oi";
             }
             else if (UserInput == "Conner" || UserInput == "conner")
             {
